@@ -1,0 +1,31 @@
+{
+    "company": {
+      "name": "Nodie motors Inc.",
+      "industry": "motors Technology",
+      "founded": "2010-05-15",
+      "location": "Nairobi kenya, CA",
+      "founders": ["John Smith", "Emily Johnson"],
+      "employees": 200,
+      "revenue": {
+        "current_year": 5000000,
+        "previous_year": 4000000,
+        "currency": "shillings"
+      },
+      "products": [
+        {
+          "name": "cars",
+          "description": "car sales,and mechanical services."
+        },
+        {
+          "name": "importation",
+          "description": "platform for imports ."
+        }
+      ],
+      "website": "https://www.Nodie.com",
+      "contact": {
+        "email": "nodie@company.com",
+        "phone": "+1-123-456-7890"
+      }
+    }
+  }
+  
